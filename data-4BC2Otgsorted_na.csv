@@ -1,0 +1,298 @@
+name,group,year,value
+Napa,North Bay,3/2/20,0
+Solano,North Bay,3/2/20,1
+Sonoma,North Bay,3/2/20,0
+Marin,North Bay,3/2/20,0
+Contra Costa,East Bay,3/2/20,0
+Alameda,East Bay,3/2/20,0
+San Mateo,Peninsula,3/2/20,0
+San Francisco,San Francisco,3/2/20,0
+Santa Clara,South Bay,3/2/20,9
+Napa,North Bay,3/3/20,0
+Solano,North Bay,3/3/20,1
+Sonoma,North Bay,3/3/20,0
+Marin,North Bay,3/3/20,0
+Contra Costa,East Bay,3/3/20,1
+Alameda,East Bay,3/3/20,1
+San Mateo,Peninsula,3/3/20,0
+San Francisco,San Francisco,3/3/20,0
+Santa Clara,South Bay,3/3/20,11
+Napa,North Bay,3/4/20,2
+Solano,North Bay,3/4/20,8
+Sonoma,North Bay,3/4/20,2
+Marin,North Bay,3/4/20,1
+Contra Costa,East Bay,3/4/20,4
+Alameda,East Bay,3/4/20,2
+San Mateo,Peninsula,3/4/20,2
+San Francisco,San Francisco,3/4/20,0
+Santa Clara,South Bay,3/4/20,14
+Napa,North Bay,3/5/20,2
+Solano,North Bay,3/5/20,8
+Sonoma,North Bay,3/5/20,3
+Marin,North Bay,3/5/20,1
+Contra Costa,East Bay,3/5/20,4
+Alameda,East Bay,3/5/20,2
+San Mateo,Peninsula,3/5/20,2
+San Francisco,San Francisco,3/5/20,2
+Santa Clara,South Bay,3/5/20,20
+Napa,North Bay,3/6/20,0
+Solano,North Bay,3/6/20,8
+Sonoma,North Bay,3/6/20,3
+Marin,North Bay,3/6/20,1
+Contra Costa,East Bay,3/6/20,7
+Alameda,East Bay,3/6/20,2
+San Mateo,Peninsula,3/6/20,2
+San Francisco,San Francisco,3/6/20,2
+Santa Clara,South Bay,3/6/20,24
+Napa,North Bay,3/7/20,0
+Solano,North Bay,3/7/20,8
+Sonoma,North Bay,3/7/20,3
+Marin,North Bay,3/7/20,1
+Contra Costa,East Bay,3/7/20,7
+Alameda,East Bay,3/7/20,3
+San Mateo,Peninsula,3/7/20,2
+San Francisco,San Francisco,3/7/20,8
+Santa Clara,South Bay,3/7/20,32
+Napa,North Bay,3/8/20,0
+Solano,North Bay,3/8/20,8
+Sonoma,North Bay,3/8/20,3
+Marin,North Bay,3/8/20,1
+Contra Costa,East Bay,3/8/20,7
+Alameda,East Bay,3/8/20,3
+San Mateo,Peninsula,3/8/20,2
+San Francisco,San Francisco,3/8/20,8
+Santa Clara,South Bay,3/8/20,37
+Napa,North Bay,3/9/20,0
+Solano,North Bay,3/9/20,3
+Sonoma,North Bay,3/9/20,3
+Marin,North Bay,3/9/20,1
+Contra Costa,East Bay,3/9/20,9
+Alameda,East Bay,3/9/20,2
+San Mateo,Peninsula,3/9/20,9
+San Francisco,San Francisco,3/9/20,13
+Santa Clara,South Bay,3/9/20,43
+Napa,North Bay,3/10/20,0
+Solano,North Bay,3/10/20,6
+Sonoma,North Bay,3/10/20,3
+Marin,North Bay,3/10/20,1
+Contra Costa,East Bay,3/10/20,10
+Alameda,East Bay,3/10/20,3
+San Mateo,Peninsula,3/10/20,9
+San Francisco,San Francisco,3/10/20,14
+Santa Clara,South Bay,3/10/20,45
+Napa,North Bay,3/11/20,0
+Solano,North Bay,3/11/20,6
+Sonoma,North Bay,3/11/20,3
+Marin,North Bay,3/11/20,3
+Contra Costa,East Bay,3/11/20,10
+Alameda,East Bay,3/11/20,3
+San Mateo,Peninsula,3/11/20,15
+San Francisco,San Francisco,3/11/20,14
+Santa Clara,South Bay,3/11/20,48
+Napa,North Bay,3/12/20,0
+Solano,North Bay,3/12/20,6
+Sonoma,North Bay,3/12/20,3
+Marin,North Bay,3/12/20,3
+Contra Costa,East Bay,3/12/20,10
+Alameda,East Bay,3/12/20,3
+San Mateo,Peninsula,3/12/20,15
+San Francisco,San Francisco,3/12/20,18
+Santa Clara,South Bay,3/12/20,48
+Napa,North Bay,3/13/20,0
+Solano,North Bay,3/13/20,6
+Sonoma,North Bay,3/13/20,3
+Marin,North Bay,3/13/20,3
+Contra Costa,East Bay,3/13/20,25
+Alameda,East Bay,3/13/20,11
+San Mateo,Peninsula,3/13/20,20
+San Francisco,San Francisco,3/13/20,23
+Santa Clara,South Bay,3/13/20,79
+Napa,North Bay,3/14/20,0
+Solano,North Bay,3/14/20,6
+Sonoma,North Bay,3/14/20,3
+Marin,North Bay,3/14/20,3
+Contra Costa,East Bay,3/14/20,25
+Alameda,East Bay,3/14/20,11
+San Mateo,Peninsula,3/14/20,20
+San Francisco,San Francisco,3/14/20,28
+Santa Clara,South Bay,3/14/20,91
+Napa,North Bay,3/15/20,0
+Solano,North Bay,3/15/20,6
+Sonoma,North Bay,3/15/20,4
+Marin,North Bay,3/15/20,5
+Contra Costa,East Bay,3/15/20,25
+Alameda,East Bay,3/15/20,11
+San Mateo,Peninsula,3/15/20,20
+San Francisco,San Francisco,3/15/20,37
+Santa Clara,South Bay,3/15/20,114
+Napa,North Bay,3/16/20,0
+Solano,North Bay,3/16/20,9
+Sonoma,North Bay,3/16/20,5
+Marin,North Bay,3/16/20,9
+Contra Costa,East Bay,3/16/20,29
+Alameda,East Bay,3/16/20,21
+San Mateo,Peninsula,3/16/20,42
+San Francisco,San Francisco,3/16/20,40
+Santa Clara,South Bay,3/16/20,138
+Napa,North Bay,3/17/20,0
+Solano,North Bay,3/17/20,9
+Sonoma,North Bay,3/17/20,6
+Marin,North Bay,3/17/20,15
+Contra Costa,East Bay,3/17/20,39
+Alameda,East Bay,3/17/20,27
+San Mateo,Peninsula,3/17/20,64
+San Francisco,San Francisco,3/17/20,43
+Santa Clara,South Bay,3/17/20,155
+Napa,North Bay,3/18/20,0
+Solano,North Bay,3/18/20,9
+Sonoma,North Bay,3/18/20,8
+Marin,North Bay,3/18/20,15
+Contra Costa,East Bay,3/18/20,41
+Alameda,East Bay,3/18/20,31
+San Mateo,Peninsula,3/18/20,80
+San Francisco,San Francisco,3/18/20,51
+Santa Clara,South Bay,3/18/20,175
+Napa,North Bay,3/19/20,0
+Solano,North Bay,3/19/20,10
+Sonoma,North Bay,3/19/20,8
+Marin,North Bay,3/19/20,25
+Contra Costa,East Bay,3/19/20,42
+Alameda,East Bay,3/19/20,35
+San Mateo,Peninsula,3/19/20,89
+San Francisco,San Francisco,3/19/20,70
+Santa Clara,South Bay,3/19/20,189
+Napa,North Bay,3/20/20,0
+Solano,North Bay,3/20/20,13
+Sonoma,North Bay,3/20/20,11
+Marin,North Bay,3/20/20,38
+Contra Costa,East Bay,3/20/20,46
+Alameda,East Bay,3/20/20,45
+San Mateo,Peninsula,3/20/20,100
+San Francisco,San Francisco,3/20/20,76
+Santa Clara,South Bay,3/20/20,196
+Napa,North Bay,3/21/20,0
+Solano,North Bay,3/21/20,14
+Sonoma,North Bay,3/21/20,23
+Marin,North Bay,3/21/20,38
+Contra Costa,East Bay,3/21/20,51
+Alameda,East Bay,3/21/20,71
+San Mateo,Peninsula,3/21/20,110
+San Francisco,San Francisco,3/21/20,84
+Santa Clara,South Bay,3/21/20,263
+Napa,North Bay,3/22/20,2
+Solano,North Bay,3/22/20,14
+Sonoma,North Bay,3/22/20,27
+Marin,North Bay,3/22/20,38
+Contra Costa,East Bay,3/22/20,61
+Alameda,East Bay,3/22/20,106
+San Mateo,Peninsula,3/22/20,117
+San Francisco,San Francisco,3/22/20,108
+Santa Clara,South Bay,3/22/20,302
+Napa,North Bay,3/23/20,2
+Solano,North Bay,3/23/20,21
+Sonoma,North Bay,3/23/20,29
+Marin,North Bay,3/23/20,47
+Contra Costa,East Bay,3/23/20,71
+Alameda,East Bay,3/23/20,122
+San Mateo,Peninsula,3/23/20,142
+San Francisco,San Francisco,3/23/20,131
+Santa Clara,South Bay,3/23/20,321
+Napa,North Bay,3/24/20,3
+Solano,North Bay,3/24/20,21
+Sonoma,North Bay,3/24/20,34
+Marin,North Bay,3/24/20,53
+Contra Costa,East Bay,3/24/20,86
+Alameda,East Bay,3/24/20,135
+San Mateo,Peninsula,3/24/20,161
+San Francisco,San Francisco,3/24/20,152
+Santa Clara,South Bay,3/24/20,375
+Napa,North Bay,3/25/20,5
+Solano,North Bay,3/25/20,24
+Sonoma,North Bay,3/25/20,35
+Marin,North Bay,3/25/20,60
+Contra Costa,East Bay,3/25/20,108
+Alameda,East Bay,3/25/20,135
+San Mateo,Peninsula,3/25/20,165
+San Francisco,San Francisco,3/25/20,178
+Santa Clara,South Bay,3/25/20,459
+Napa,North Bay,3/26/20,6
+Solano,North Bay,3/26/20,31
+Sonoma,North Bay,3/26/20,39
+Marin,North Bay,3/26/20,60
+Contra Costa,East Bay,3/26/20,131
+Alameda,East Bay,3/26/20,178
+San Mateo,Peninsula,3/26/20,195
+San Francisco,San Francisco,3/26/20,223
+Santa Clara,South Bay,3/26/20,542
+Napa,North Bay,3/27/20,8
+Solano,North Bay,3/27/20,34
+Sonoma,North Bay,3/27/20,43
+Marin,North Bay,3/27/20,65
+Contra Costa,East Bay,3/27/20,147
+Alameda,East Bay,3/27/20,220
+San Mateo,Peninsula,3/27/20,239
+San Francisco,San Francisco,3/27/20,279
+Santa Clara,South Bay,3/27/20,574
+Napa,North Bay,3/28/20,9
+Solano,North Bay,3/28/20,34
+Sonoma,North Bay,3/28/20,54
+Marin,North Bay,3/28/20,68
+Contra Costa,East Bay,3/28/20,151
+Alameda,East Bay,3/28/20,256
+San Mateo,Peninsula,3/28/20,274
+San Francisco,San Francisco,3/28/20,308
+Santa Clara,South Bay,3/28/20,591
+Napa,North Bay,3/29/20,10
+Solano,North Bay,3/29/20,34
+Sonoma,North Bay,3/29/20,54
+Marin,North Bay,3/29/20,74
+Contra Costa,East Bay,3/29/20,175
+Alameda,East Bay,3/29/20,270
+San Mateo,Peninsula,3/29/20,277
+San Francisco,San Francisco,3/29/20,340
+Santa Clara,South Bay,3/29/20,646
+Napa,North Bay,3/30/20,14
+Solano,North Bay,3/30/20,43
+Sonoma,North Bay,3/30/20,58
+Marin,North Bay,3/30/20,93
+Contra Costa,East Bay,3/30/20,187
+Alameda,East Bay,3/30/20,283
+San Mateo,Peninsula,3/30/20,309
+San Francisco,San Francisco,3/30/20,374
+Santa Clara,South Bay,3/30/20,848
+Napa,North Bay,3/31/20,15
+Solano,North Bay,3/31/20,49
+Sonoma,North Bay,3/31/20,73
+Marin,North Bay,3/31/20,99
+Contra Costa,East Bay,3/31/20,212
+Alameda,East Bay,3/31/20,313
+San Mateo,Peninsula,3/31/20,309
+San Francisco,San Francisco,3/31/20,397
+Santa Clara,South Bay,3/31/20,890
+Napa,North Bay,4/1/20,18
+Solano,North Bay,4/1/20,54
+Sonoma,North Bay,4/1/20,85
+Marin,North Bay,4/1/20,107
+Contra Costa,East Bay,4/1/20,250
+Alameda,East Bay,4/1/20,359
+San Mateo,Peninsula,4/1/20,388
+San Francisco,San Francisco,4/1/20,434
+Santa Clara,South Bay,4/1/20,956
+Napa,North Bay,4/2/20,18
+Solano,North Bay,4/2/20,61
+Sonoma,North Bay,4/2/20,91
+Marin,North Bay,4/2/20,108
+Contra Costa,East Bay,4/2/20,276
+Alameda,East Bay,4/2/20,396
+San Mateo,Peninsula,4/2/20,453
+San Francisco,San Francisco,4/2/20,450
+Santa Clara,South Bay,4/2/20,1019
+Napa,North Bay,4/3/20,20
+Solano,North Bay,4/3/20,73
+Sonoma,North Bay,4/3/20,95
+Marin,North Bay,4/3/20,118
+Contra Costa,East Bay,4/3/20,307
+Alameda,East Bay,4/3/20,443
+San Mateo,Peninsula,4/3/20,486
+San Francisco,San Francisco,4/3/20,497
+Santa Clara,South Bay,4/3/20,1094
